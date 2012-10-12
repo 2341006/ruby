@@ -1,3 +1,3 @@
-puts "Hello,world"
+puts "Hello,world."
 puts "test"
-puts "seeyou,again"
+puts "see you again."
